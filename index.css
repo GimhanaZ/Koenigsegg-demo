@@ -293,6 +293,7 @@ nav a:focus {
     width: 70dvw;
     margin: 1.5em auto;
     height: 50dvh;
+    align-items: center;
   }
   h3{
     font-size: 1rem;
