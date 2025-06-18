@@ -314,9 +314,11 @@ nav a:focus {
   }
   h3{
     font-size: 1rem;
+    letter-spacing: .5em;
   }
   .slogan{
     font-size: .7rem;
+    letter-spacing: .5em;
   }
   .section4-p {
     font-size: .5rem;
