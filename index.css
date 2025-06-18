@@ -120,14 +120,7 @@ section {
   margin: 0;
   width: 100%;
 }
-.section-1 {
-  background-image: url(Assets/koe9.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  height: 100dvh;
-}
+
 .main-heading {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
@@ -170,16 +163,16 @@ section {
   width: inherit;
   display: flex;
   align-items: center;
-  justify-content: center;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18);
-  border-radius: 1.5em;
-  background: rgba(0, 0, 0, 0.7);
-  max-width: fit-content;
-}
-.video-container iframe {
-  width: 100dvw;
+  margin: 5em auto;
+  position: relative;
+  width: 30%;
   height: 100dvh;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+  border-radius: 1em;
+  background-color: #f8f8f8;
+  overflow: hidden;
+  object-fit: cover;
+  background-size: cover;
+  background-po8);
 }
 
 .section-4 {
@@ -319,6 +312,7 @@ nav a:focus {
   .slogan{
     font-size: .7rem;
     letter-spacing: .5em;
+    margin: 2em auto;
   }
   .section4-p {
     font-size: .5rem;
