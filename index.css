@@ -312,4 +312,10 @@ nav a:focus {
     margin: 2em auto;
     height: 100dvh;
   }
+  h3{
+    font-size: 1.7rem;
+  }
+  .slogan{
+    font-size: 1.5rem;
+  }
 }
